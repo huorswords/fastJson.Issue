@@ -1,0 +1,7 @@
+﻿{
+    "Persons": [
+        { "Person": { "FirstName":"A", "Surname": "B" } },
+        { "Person": { "FirstName":"C", "Surname": "D" } },
+        { "Person": { "FirstName":"E", "Surname": "F" } }
+    ]
+}
